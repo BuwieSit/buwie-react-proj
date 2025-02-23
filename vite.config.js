@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/buwie-portf/",
+  base: "/buwie-react-proj/",
   
   server: {
     port: 3000,
