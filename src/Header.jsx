@@ -7,6 +7,8 @@ function Header() {
             <nav>
                 <ul>
                     <li>Test</li>
+                    <li>Test 2</li>
+                    <li>Test 3</li>
                 </ul>
             </nav>
             
